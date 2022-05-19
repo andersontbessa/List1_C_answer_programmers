@@ -1,0 +1,15 @@
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\bin\Debug\net6.0\ex8.exe
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\bin\Debug\net6.0\ex8.deps.json
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\bin\Debug\net6.0\ex8.runtimeconfig.json
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\bin\Debug\net6.0\ex8.dll
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\bin\Debug\net6.0\ex8.pdb
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\ex8.csproj.AssemblyReference.cache
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\ex8.AssemblyInfoInputs.cache
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\ex8.AssemblyInfo.cs
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\ex8.csproj.CoreCompileInputs.cache
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\ex8.dll
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\refint\ex8.dll
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\ex8.pdb
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\ex8.genruntimeconfig.cache
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex8\ex8\obj\Debug\net6.0\ref\ex8.dll

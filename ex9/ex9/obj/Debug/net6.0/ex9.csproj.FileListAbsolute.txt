@@ -1,0 +1,15 @@
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\bin\Debug\net6.0\ex9.exe
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\bin\Debug\net6.0\ex9.deps.json
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\bin\Debug\net6.0\ex9.runtimeconfig.json
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\bin\Debug\net6.0\ex9.dll
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\bin\Debug\net6.0\ex9.pdb
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\ex9.csproj.AssemblyReference.cache
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\ex9.AssemblyInfoInputs.cache
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\ex9.AssemblyInfo.cs
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\ex9.csproj.CoreCompileInputs.cache
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\ex9.dll
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\refint\ex9.dll
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\ex9.pdb
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\ex9.genruntimeconfig.cache
+C:\Users\anderson.bessa\Downloads\RESPOSTAS EM C#\ex9\ex9\obj\Debug\net6.0\ref\ex9.dll
