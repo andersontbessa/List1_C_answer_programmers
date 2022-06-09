@@ -1,1 +1,1 @@
-# Respostas da lista 1 
+# exercícios 
